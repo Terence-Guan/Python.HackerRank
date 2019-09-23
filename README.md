@@ -1,3 +1,3 @@
 # EhouarnPerret.Python.HackerRank
-My Python HackerRank solution(s) =]
+My Python HackerRank solution(s)
 
